@@ -7,3 +7,6 @@ Management System) and perform the following operations using appropriate mappin
 2. Insert new records into the table.
 3. Update an existing record in the table.
 4. Delete existing records from the table.
+
+
+Note: Please change the username and password in application.properties as per your MySQL username and password
